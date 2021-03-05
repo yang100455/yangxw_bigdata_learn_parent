@@ -1,0 +1,13 @@
+target/
+pom.xml.tag
+UnitTest.java
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+.idea/
+release.properties
+.settings/
+.classpath
+.project
+*.iml
+*.DS_Store
